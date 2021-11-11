@@ -6,3 +6,7 @@
 
 
 # Oh heck, GitHub got stories
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
