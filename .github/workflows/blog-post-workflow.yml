@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://lmhd.me/feed/tech.xml"
           date_format: 'yyyy-mm-dd'
-          template: "- [$title]($url) - $date $newline"
+          template: "$newline- [$title]($url) - $date"
