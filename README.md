@@ -9,10 +9,4 @@
 
 
 ## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Terraform apply as code: The multispace pattern](http://lmhd.me/tech/2023/07/10/multispace/)
-- [Adventures in Dynamic Terraform](http://lmhd.me/tech/2021/05/26/dynamic-terraform/)
-- [Vault Terraform Cloud Init](http://lmhd.me/tech/2021/04/07/VaultTerraformBootstrap/)
-- [Testing Netlify CMS](http://lmhd.me/tech/2018/12/14/testing-netlify-cms/)
-- [🚡 Riding the Aerial Tramway. Emojis on Graphs!](http://lmhd.me/tech/2018/07/22/emoji-graphs/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Terraform apply as code: The multispace pattern](http://lmhd.me/tech/2023/07/10/multispace/) - Mon Jul 10 2023 12:00 PM[Adventures in Dynamic Terraform](http://lmhd.me/tech/2021/05/26/dynamic-terraform/) - Wed May 26 2021 5:45 PM[Vault Terraform Cloud Init](http://lmhd.me/tech/2021/04/07/VaultTerraformBootstrap/) - Wed Apr 07 2021 6:30 PM[Testing Netlify CMS](http://lmhd.me/tech/2018/12/14/testing-netlify-cms/) - Fri Dec 14 2018 3:14 PM[🚡 Riding the Aerial Tramway. Emojis on Graphs!](http://lmhd.me/tech/2018/07/22/emoji-graphs/) - Sun Jul 22 2018 2:40 PM<!-- BLOG-POST-LIST:END -->
